@@ -1,3 +1,2 @@
 # JSREACT
-# this is a test
-# second test
+its a web development project using react and nodejs
